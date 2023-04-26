@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Grace Sanford</h1>
-<h3 align="center">A Full Stack Software Engineer, with a passion for performant code and cross-functional, creative problem-solving</h3>
+<h3 align="center">A Full Stack Software Engineer, with a passion for performant code, cross-functional collaboration, and creative problem-solving</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grace-sanford" alt="grace-sanford" /></a> </p>
 
